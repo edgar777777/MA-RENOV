@@ -1,0 +1,1 @@
+Ouvre index.html avec un navigateur. Pour publier, mets index.html et les images dans le même dossier sur GitHub Pages ou Netlify.
